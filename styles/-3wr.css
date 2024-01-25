@@ -1,0 +1,325 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.item-3-cEG {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 16rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f77474;
+}
+.item-3-cEG .topbar-7gp {
+  margin: 0rem 0rem 2.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 1.8rem 0rem 14rem;
+  width: calc(100% - 0rem);
+  height: 10rem;
+  border-bottom: solid 0.5rem #000000;
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE {
+  width: 100%;
+  height: 8.6rem;
+  display: flex;
+  align-items: center;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .n-2-Af6 {
+  width: 9.9rem;
+  height: 8.6rem;
+  position: relative;
+  background-size: 100% 115.116%;
+  background-position: 0 -0.65rem;
+  background-image: url('../assets/n-2.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 1rem 24.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-jh1n-Bq6 {
+  margin: 0.3rem 2.5rem 0rem 0rem;
+  width: 13rem;
+  height: 6.3rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuHallasan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-17.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-8qdn-252 {
+  margin: 0.5rem 3.2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2.3rem 0.4rem 2.2rem;
+  width: 13rem;
+  height: 6.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-18-M5n.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-8qdn-252 .hizmetlerimiz-JoE {
+  max-width: 8.5rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-marg-1xY {
+  margin: 0rem 4.3rem 0.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0.8rem 3.5rem 1.4rem 2.7rem;
+  width: 13rem;
+  height: 6.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-19-4QU.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-marg-1xY .uzman-kadromuz-vZi {
+  max-width: 6.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-3wb2-eEp {
+  margin: 0.3rem 3.5rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.95rem 1.3rem 3.35rem;
+  width: 13rem;
+  height: 6.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-20-jaC.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-3wb2-eEp .zel-kampanyalar-9hN {
+  max-width: 7.7rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuHallasan, 'Source Sans Pro';
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-f63v-UDr {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 13rem;
+  height: 6.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuHallasan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-21-KMv.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .topbar-7gp .auto-group-hvgq-pbE .auto-group-uydw-rnp .auto-group-gfsc-8ZJ {
+  margin-top: 0.3rem;
+  width: 13rem;
+  height: 6.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuHallasan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-22-dhN.png');
+  flex-shrink: 0;
+}
+.item-3-cEG .auto-group-owsr-17J {
+  margin: 0rem 0rem 0.8rem 9.4rem;
+  width: 125.4rem;
+  height: 20.3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #ad0c0c;
+  box-sizing: border-box;
+  filter: blur(0.2rem);
+  background-color: rgba(8, 8, 8, 0.349999994);
+  border-radius: 10.15rem;
+  flex-shrink: 0;
+}
+.item-3-cEG .auto-group-2gay-EEx {
+  margin: 0rem 20.3rem 0rem 15.8rem;
+  width: calc(100% - 36.1rem);
+  height: 52.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-3-cEG .auto-group-2gay-EEx .rectangle-2-LYt {
+  width: 16.2rem;
+  height: 24.9rem;
+  position: absolute;
+  left: 49.7rem;
+  top: 4.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.2rem;
+}
+.item-3-cEG .auto-group-2gay-EEx .rectangle-3-f5N {
+  width: 44rem;
+  height: 20.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 6.7rem;
+}
+.item-3-cEG .auto-group-2gay-EEx .drhlya-can-aile-hekimi-bji {
+  width: 24.3rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 12.95rem;
+  top: 4.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-3-cEG .auto-group-2gay-EEx .rectangle-4-Eng {
+  width: 42.2rem;
+  height: 20.4rem;
+  position: absolute;
+  left: 65.7rem;
+  top: 0.2rem;
+  border-radius: 7.3rem;
+}
+.item-3-cEG .auto-group-2gay-EEx .drserkant-ahin-pratisyen-hekim-N8C {
+  width: 24.4rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 75.2rem;
+  top: 4.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2102272511;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-3-cEG .auto-group-2gay-EEx .drserkant-ahin-pratisyen-hekim-N8C .drserkant-ahin-pratisyen-hekim-N8C-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #090909;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-3-cEG .auto-group-2gay-EEx .drserkant-ahin-pratisyen-hekim-N8C .drserkant-ahin-pratisyen-hekim-N8C-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-3-cEG .auto-group-2gay-EEx .rectangle-5-Zbz {
+  width: 44.5rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 35.9rem;
+  top: 29.9rem;
+  border-radius: 7.8rem;
+}
+.item-3-cEG .auto-group-2gay-EEx .uzhemire-kaan-yksel-GmJ {
+  width: 17.5rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 50.15rem;
+  top: 33.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.item-3-cEG .auto-group-2gay-EEx .dr-erkek-1-iNQ {
+  width: 17.3rem;
+  height: 30.6rem;
+  position: absolute;
+  left: 78.7rem;
+  top: 14.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3.9rem;
+}
+.item-3-cEG .auto-group-2gay-EEx .kadn-dr-1-qC8 {
+  width: 21.2rem;
+  height: 28.6rem;
+  position: absolute;
+  left: 13rem;
+  top: 17.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 9rem;
+}
